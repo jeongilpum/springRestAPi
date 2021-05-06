@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="restapi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/restapi_jar</output-path>
+    <root id="archive" name="restapi.jar">
+      <element id="archive" name="archive.jar" />
+    </root>
+  </artifact>
+</component>
